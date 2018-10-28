@@ -1,2 +1,2 @@
 # TestingSublimeMerge
-reporisory to test Sublime Merge
+reporisory to test Sublime Merge PUSH
